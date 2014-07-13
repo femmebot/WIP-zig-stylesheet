@@ -1,7 +1,8 @@
 body h1, h2, h3, h4, h5, h6 { font-family: Sintony, 'Helvetica Neue', Helvetica, arial, sans-serif; font-weight: 700; }
 body p { font: 14px/20px Sintony, 'Helvetica Neue', Helvetica, arial, sans-serif; }
-body p.lead { font: 20px/30px Sintony, 'Helvetica Neue', Helvetica, arial, sans-serif; margin: 5% 0; }
-body p.lead-decorative { font: 20px/30px Trocchi, 'Helvetica Neue', Helvetica, arial, sans-serif; margin: 5% 0; }
+body p.lead { font: 20px/30px Sintony, 'Helvetica Neue', Helvetica, arial, sans-serif; }
+body p.lead-decorative { font: 20px/30px Trocchi, 'Helvetica Neue', Helvetica, arial, sans-serif; }
+body h5.head-decorative, body h6.head-decorative { text-transform: uppercase; letter-spacing: .2em; font-family: Trocchi, Sintony, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; line-height: 150%; margin-top: 20%;}
 body ul { font: 14px/20px Sintony, 'Helvetica Neue', Helvetica, arial, sans-serif; }
 body ul li { margin-bottom: 10px; }
-.x-large { font-size: 500%; line-height: 200%; }
+.page-title { font-size: 500%; line-height: 120%; margin-bottom: 10%;}
