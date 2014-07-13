@@ -1,0 +1,5 @@
+body h1, h2, h3, h4, h5, h6 { font-family: Sintony, 'Helvetica Neue', Helvetica, arial, sans-serif; font-weight: 700; }
+body p { font: 14px/20px Sintony, 'Helvetica Neue', Helvetica, arial, sans-serif; }
+body p.lead { font: 20px/30px Sintony, 'Helvetica Neue', Helvetica, arial, sans-serif;}
+body ul { font: 14px/20px Sintony, 'Helvetica Neue', Helvetica, arial, sans-serif; }
+.x-large { font-size: 500%; line-height: 200%; }
