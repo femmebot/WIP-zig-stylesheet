@@ -5,4 +5,6 @@ body p.lead-decorative { font: 20px/30px Trocchi, 'Helvetica Neue', Helvetica, a
 body h5.head-decorative, body h6.head-decorative { text-transform: uppercase; letter-spacing: .2em; font-family: Trocchi, Sintony, 'Helvetica Neue', Helvetica, sans-serif; font-weight: normal; line-height: 150%; margin-top: 20%;}
 body ul { font: 14px/20px Sintony, 'Helvetica Neue', Helvetica, arial, sans-serif; }
 body ul li { margin-bottom: 10px; }
+body a { color: #ed4723; }
+body a:hover { color: #b33; }
 .page-title { font-size: 500%; line-height: 120%; }
